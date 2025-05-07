@@ -4,7 +4,7 @@ This is an intelligent chatbot built using **Landbot** and **Dialogflow**, desig
 
 ## 🚀 Demo
 
-👉 [Live Chatbot Demo](https://app.landbot.io/gui/bot/3259203/builder) *(replace with actual link)*
+👉 [Live Chatbot Demo](https://app.landbot.io/gui/bot/3259203/builder) 
 
 ## 🧠 Features
 
